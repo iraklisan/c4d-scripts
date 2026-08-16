@@ -1,3 +1,4 @@
+# convert selection to points by iraklisan
 import c4d
 
 bc = c4d.BaseContainer()
