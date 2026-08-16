@@ -1,3 +1,5 @@
+# convert selection to polys by iraklisan
+
 import c4d
 
 bc = c4d.BaseContainer()
