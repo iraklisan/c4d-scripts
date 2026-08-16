@@ -1,6 +1,6 @@
-import c4d
+# hide / unhide toggle by iraklisan
 
-# Show_Hide toggle with Undo
+import c4d
 
 def state():
     objs = doc.GetActiveObjects(c4d.GETACTIVEOBJECTFLAGS_CHILDREN)
