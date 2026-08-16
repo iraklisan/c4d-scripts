@@ -1,3 +1,5 @@
+# found on interenet and added "for loop" for multiple object selection
+
 import c4d
 
 def main() -> None:
